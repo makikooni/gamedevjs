@@ -6,12 +6,7 @@ window.onload = function() {
 	btn.onclick = function() {
 		count += 1;
 	}
-	
-	canvas {
-	width: 100%;
-	background-color: black;
-	
-	}
+
 }
 
 window.onload = function () {
