@@ -15,7 +15,7 @@ context.fillStyle="#ff99ff";
 context.fill();
 
 	
-	document.ontouchdown = function() {
+	document.ontouchstart = function() {
 		count += 1;
 		y -= 25;}
 		
