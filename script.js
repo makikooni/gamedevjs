@@ -9,10 +9,8 @@ window.onload = function() {
 
 }
 
-window.onload = function () {
 var canvas =
-document.getElementById('canvas');
-var context =
+document.getElementById("canvas");
 context = canvas.getContext("2d");
 var x = 300;
 var y = 350;
