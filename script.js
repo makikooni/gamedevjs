@@ -53,6 +53,5 @@ context.fill();
 	
 	window.requestAnimationFrame(draw);
 }
-
 draw();
 }
